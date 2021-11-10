@@ -10,14 +10,12 @@
 
 > What is a classical computer? A classical computer is a physical system that processes information by flipping bits in an algorithmic fashion. What is the Universe? The Universe is a physical system that processes information through particle interactions in a consistent fashion, so the Universe can be thought of as a massive-scale quantum computer/computation. [Seth Lloyd](https://youtu.be/a35bKt1nuBo?t=263)
 
+> It is well-known that x86 instruction set is baroque, overcomplicated, and redundantly redundant. It remains Turing-complete even when reduced to the `mov` instruction. Removing all but the `mov` instruction from future iterations of the x86 architecture would have many advantages: the instruction format would be greatly simplified, the expensive decode unit would become much cheaper, and silicon currently used for complex functional units could be repurposed as even more cache. That is, as long as someone else implements the compiler... [Stephen Dolan](https://drwho.virtadpt.net/files/mov.pdf)
+
+> Enter M/o/Vfuscator. A C compiler that compiles programs into `mov` instructions only. [Christopher Domas](https://github.com/Battelle/movfuscator)
+
 > Perhaps the symmetric properties and simple arithmetic of the balanced ternary system as opposed to the binary system will prove to be quite important someday — when the "flip-flop" is replaced by a "flip-flap-flop". [Donald Knuth](https://www.amazon.com/Art-Computer-Programming-Seminumerical-Algorithms/dp/0201896842)
 
 > All of the world's computers as well as almost all natural languages obey the rules of Aristotelian logic (also known as Boolean or binary logic), which makes it possible to unambiguously express any bivalent logical function. Boolean algebra, however, cannot describe the logic of the Aymara language, as it is the only natural language known to be based on the trivalent logic. [Iván Guzmán de Rojas](https://aymara.org/biblio/html/igr/igr.html)
 
 > How do you recognize an extroverted mathematician? Well, they look at YOUR shoes. What this alludes to is that good mathematicians tend to have Asperger's, which means that the parts of the brain that "normal" people use for social cognition and for worrying what other humans think about them, mathematicians use for thinking about abstract problems. [Joscha Bach](https://youtu.be/JcYNhOgQ29I?t=3049)
-
-<!--
-## [Personal Explications]()
-
-### [On the Purposes of Art]()
--->
