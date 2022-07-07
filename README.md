@@ -1,6 +1,6 @@
 # :space_invader: :milky_way: **Computational Universe Diary**
 
-## :writing_hand: Collection of disparate notes, quotes, anecdotes and jokes revealing the computational nature of the Universe, which essentially means that the Universe computes and is computable.
+## :notebook: Collection of disparate notes, quotes, anecdotes and jokes revealing the computational nature of the Universe, which essentially means that the Universe computes and is computable.
 
 > The Universe is a multi-way causal hypergraph that computes itself, with the extent of the hypergraph representing space and the progressive self-computation representing the passage of time. [Stephen Wolfram](https://www.wolframphysics.org/visual-summary/dark/)
 
