@@ -1,4 +1,4 @@
-# :space_invader: :milky_way: :notebook: **Computational Universe Diary**
+# :space_invader: :milky_way: **Computational Universe Diary**
 
 ## :writing_hand: Collection of disparate notes, quotes, anecdotes and jokes revealing the computational nature of the Universe, which essentially means that the Universe computes and is computable.
 
